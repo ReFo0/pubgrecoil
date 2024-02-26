@@ -16,3 +16,7 @@ The program continuously monitors the state of the `Numpad1` key. When activated
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Game Photo
+
+![image](https://github.com/ReFo0/pubgrecoil/assets/77904942/4ed17c70-9c0e-4b8d-bbb6-2dd4aaa7b304)
